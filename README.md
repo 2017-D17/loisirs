@@ -4,4 +4,4 @@
 3. [Jouer avec mon chien et mon chat](Chien-Chat.md)
 4. [Ski](Ski.md)
 5. [Le Football](Football.md) 
-7. [Ping Pong](pingPong.md)
+7. [Ping Pong](PingPong.md)
