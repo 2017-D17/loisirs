@@ -1,4 +1,4 @@
 # Séries
 
 ### Game of thrones
-![Drogon](image.jpg)
+![Drogon](images/image.jpg)
