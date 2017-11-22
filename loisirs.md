@@ -17,7 +17,7 @@ Bordel de flûte.
 * Toy Dolls - Wakey Wakey !
 * Metallica - The Four Horsemen
 * AC/DC - Hell's Bells
-* ptet d'autres trucs  
+* ptet d'autres trucs, depuis l'temps  
 
 ## Matériel à acheter
 
@@ -26,3 +26,4 @@ Bordel de flûte.
 3. UNE ESP BLBLBLBL
 
 
+![Takamine](http://i.ebayimg.com/images/i/261859696394-0-1/s-l1000.jpg)
