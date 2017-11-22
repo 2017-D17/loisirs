@@ -6,5 +6,5 @@
 4. [Ski](Ski.md)
 5. [Le Football](Football.md) 
 7. [Ping Pong](PingPong.md)
-8. [poker](poker.md)
+8. [poker](Poker.md)
 
