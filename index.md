@@ -1,1 +1,1 @@
-[Lien](https://github.com/2017-D17/loisirs/blob/guitare/loisirs.md)
+Clément : [Guitare](https://github.com/2017-D17/loisirs/blob/guitare/loisirs.md)
