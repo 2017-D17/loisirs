@@ -1,4 +1,4 @@
-#Séries
+# Séries
 
-###Game of thrones
+### Game of thrones
 ![Drogon](image.jpg)
