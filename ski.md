@@ -11,5 +11,4 @@
 	
 *Petite image stylé*
 ![](http://www.rossignol.com/tzr/scripts/resizer.php?filename=T093/img1/75/07/llf58okscj70&mime=image%2Fjpeg&&originalname=homme03.jpg&geometry=640x%3E)
-Format: ![Alt Text](url)
 
