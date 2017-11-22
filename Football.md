@@ -6,7 +6,7 @@ Terrains sur gazon, terre ou rien
 
 ## Les bons joeurs 
 Thien Ban BUI
-![BIG TEAM](/images/TB.png)
+![BIG TEAM](/images/TB.jpg)
 
 
 ## foot est de la balle
